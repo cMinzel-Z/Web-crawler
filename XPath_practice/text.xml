@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+<person dept="sales">
+<name>mary</name>
+<age>20</age>
+</person>
+<person dept="marketing">
+<name>cindy</name>
+<age>25</age>
+</person>
+<person dept="sales">
+<name>john</name>
+<age>40</age>
+</person>
+<person dept="accounting">
+<name>peter</name>
+<age>35</age>
+</person>
+</people>

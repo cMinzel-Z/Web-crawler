@@ -1,0 +1,5 @@
+# 不遵循ROBOTS协议
+ROBOTSTXT_OBEY = False
+
+# 取消注释启动pipelines, 对数据进行处理（保存，转换格式）
+ITEM_PIPELINES
